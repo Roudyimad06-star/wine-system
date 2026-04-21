@@ -1,1 +1,2 @@
+add .gitignore
 "# wine-system" 
